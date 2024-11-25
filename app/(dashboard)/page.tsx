@@ -3,9 +3,8 @@ import { UserButton } from "@clerk/nextjs"
 
 export default function Home() {
   return(
-    <div>
+    <div className="flex items-end justify-end">
       <UserButton afterSignOutUrl="/"/>
-      <p>hello world</p>
     </div>
   )
 }
