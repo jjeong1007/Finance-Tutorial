@@ -11,7 +11,7 @@ export default function Page() {
                 Welcome
             </h1>
             <p className="text-base text-[#7E8CA0]">
-                Log in or Create an Account to get back to your dashboard
+                Log in or Create an Account to Access the DashBoard
             </p>
         </div>
         <div className="flex items-center justify-center mt-8">
